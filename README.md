@@ -8,7 +8,7 @@ venvを作り、pipenvを使ってpipfileからプラグインをインストー
 
 ```
 python -m venv .venv
-sourve .venv/bin/activate
+source .venv/bin/activate
 pip install pipenv
 pipenv install
 ```
